@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://backend-demo-test-0-0-1-dda6d7cbd071.herokuapp.com/api/$1"
+    }
+  ]
+}
